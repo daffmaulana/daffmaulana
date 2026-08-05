@@ -1,12 +1,12 @@
 <div align="center">
 
-# Daffa Maulana
+# Daffa Bagus Maulana
 
-### Data Analytics · Machine Learning
+### Data Analytics & Machine Learning Enthusiast!
 
 Transforming data into meaningful insights and building intelligent products through analytics, machine learning, and software engineering.
 
-[LinkedIn](#) • [Portfolio](#) • [Email](mailto:your@email.com)
+[LinkedIn](https://linkedin.com/in/daffamaulana)
 
 </div>
 
@@ -16,11 +16,13 @@ Transforming data into meaningful insights and building intelligent products thr
 
 ## About
 
-I'm an Informatics undergraduate at **Universitas Pembangunan Nasional Veteran Jakarta** with experience in customer operations and AI application development.
+## About
 
-My interests lie at the intersection of **data**, **business**, and **artificial intelligence**.
+I'm a fresh graduate in Informatics from **Universitas Pembangunan Nasional Veteran Jakarta** with a strong interest in data analytics and machine learning.
 
-I enjoy discovering patterns from data, building predictive models, and creating products that solve real-world problems.
+Through my academic projects and internship experiences, I've worked with data to uncover meaningful insights, analyze business problems, and support data-driven decision making. I enjoy turning raw data into clear stories that help people understand what happened, why it happened, and what actions can be taken.
+
+I'm continuously expanding my skills in analytics, business intelligence, and machine learning while building projects that solve real-world problems.
 
 <br>
 
@@ -61,60 +63,10 @@ Python · Scikit-learn · TensorFlow
 ---
 
 ## Technologies
-
-**Data**
-
 Python  
 SQL  
-Pandas  
-NumPy
-
-<br>
-
-**Machine Learning**
-
-TensorFlow  
-Scikit-learn
-
-<br>
-
-**Visualization**
-
 Power BI  
 Excel
-
-<br>
-
-**Database**
-
-PostgreSQL
-
-<br>
-
-**Tools**
-
-Git  
-GitHub  
-VS Code
-
-<br>
-
----
-
-## Currently
-
-- Learning advanced machine learning
-- Exploring data engineering concepts
-- Building data-focused portfolio projects
-- Looking for opportunities in Data Analytics & Machine Learning
-
-<br>
-
----
-
-## Philosophy
-
-> Great products start with understanding data.
 
 <br>
 
