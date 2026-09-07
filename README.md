@@ -14,7 +14,6 @@ Transforming data into meaningful insights and building intelligent products thr
 
 ---
 
-## About
 
 ## About
 
@@ -25,52 +24,6 @@ Through my academic projects and internship experiences, I've worked with data t
 I'm continuously expanding my skills in analytics, business intelligence, and machine learning while building projects that solve real-world problems.
 
 <br>
-
----
-
-## Selected Work
-
-### GoiHunt
-
-AI-powered Japanese vocabulary learning platform using transfer learning and gamification.
-
-**Stack**
-
-TensorFlow · React · Express · PostgreSQL
-
-<br>
-
-### Customer Analytics
-
-Interactive analytics dashboard for customer behavior and business insights.
-
-**Stack**
-
-Power BI · SQL · Python
-
-<br>
-
-### Machine Learning Projects
-
-A collection of machine learning experiments covering classification, clustering, forecasting, and predictive analytics.
-
-**Stack**
-
-Python · Scikit-learn · TensorFlow
-
-<br>
-
----
-
-## Technologies
-Python  
-SQL  
-Power BI  
-Excel
-
-<br>
-
----
 
 <div align="center">
 
