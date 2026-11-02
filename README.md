@@ -2,7 +2,7 @@
 
 # Daffa Bagus Maulana
 
-### Data Analytics & Machine Learning Enthusiast!
+### Developer, Data Analytics & Machine Learning Enthusiast!
 
 Transforming data into meaningful insights and building intelligent products through analytics, machine learning, and software engineering.
 
