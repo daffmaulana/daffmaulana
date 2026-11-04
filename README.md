@@ -7,6 +7,7 @@
 Transforming data into meaningful insights and building intelligent products through analytics, machine learning, and software engineering.
 
 [LinkedIn](https://linkedin.com/in/daffamaulana)
+[Portfolio](https://portfolio.daff.my.id)
 
 </div>
 
